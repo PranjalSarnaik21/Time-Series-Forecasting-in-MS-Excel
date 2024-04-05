@@ -1,4 +1,5 @@
-![Screenshot (34)](https://github.com/PranjalSarnaik21/Time-Series-Forecasting-in-MS-Excel/assets/158582133/54e1e5c3-c04a-43dc-8487-3e78ce455fc8)
+![Screenshot (37)](https://github.com/PranjalSarnaik21/Time-Series-Forecasting-in-MS-Excel/assets/158582133/5d349c9d-2caf-40c9-bb57-37ca9575ed27)
+
 # Time-Series-Forecasting-in-MS-Excel
 
 ## Overview
