@@ -2,7 +2,7 @@
 ![Screenshot (37)](https://github.com/PranjalSarnaik21/Time-Series-Forecasting-in-MS-Excel/assets/158582133/5d349c9d-2caf-40c9-bb57-37ca9575ed27)
 
 # Installation
-To view and edit Excel files, you need to have Microsoft Excel installed on your system. If you don't have it installed yet, you can follow these links to download and install:
+If you don't have it installed yet, you can follow these links to download and install:
 - **For Windows:** [Microsoft Office website](https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019
 
 ## Overview
